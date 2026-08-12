@@ -4,5 +4,8 @@
   "private": true,
   "scripts": {
     "build": "node build-catalog.js"
+  },
+  "dependencies": {
+    "sharp": "^0.35.3"
   }
 }
