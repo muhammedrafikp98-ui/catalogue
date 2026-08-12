@@ -5,15 +5,6 @@
   "dimensions": "Large: 24 × 24 × 24 in",
   "story": "Where organic growth meets the geometry of turned wood.",
   "tagline": "Two sculptural forms, each with its own rhythm.",
-  "sizePrices": [
-    {
-      "size": "Large table",
-      "price": "₹15,000"
-    },
-    {
-      "size": "Small table",
-      "price": "₹8,000"
-    }
-  ],
+  "sizePrices": [],
   "image": "assets/50.jpeg"
 }
