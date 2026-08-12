@@ -2,17 +2,17 @@
   "name": "Vruksha Table",
   "sku": "NAD-TBL-[NUM]",
   "tagline": "Two sculptural forms, each with its own rhythm.on",
-  "story": "\tWhere organic growth meets the geometry of turned wood.",
-  "price": "Large table - ₹15,000 · Small table - ₹8,000",
-  "dimensions": "Large: 24 × 24 × 24 in",
+  "story": "Vruksha & Mani is a pair of sculptural side-table designs shaped by two contrasting ideas from nature. The larger table rises from a bold stepped base into a branching central form, evoking roots, growth, and the untamed energy of a tree. The smaller table takes a quieter, more rhythmic approach, with stacked rounded forms supporting a compact circular top. Together, the two designs balance movement and order, offering expressive surfaces that can be styled individually or brought together as a coordinated composition.",
+  "price": "₹15,000",
+  "dimensions": "Large: 24 × 24 × 24 inSmall: Height 18 in × Bottom Base Width 8 in × Top Diameter 14 in",
   "sizePrices": [
     {
-      "size": "Large table ",
+      "size": " Large Vruksha Table",
       "price": "₹15,000"
     },
     {
-      "size": "Small table ",
-      "price": "₹8,000"
+      "size": "Small Mani Table",
+      "price": " ₹8,000"
     }
   ],
   "image": "assets/50.webp"
