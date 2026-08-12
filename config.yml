@@ -1,0 +1,32 @@
+backend:
+  name: github
+  repo: muhammedrafikp98-ui/catalogue
+  branch: main
+  auth_endpoint: api/auth
+
+media_folder: "assets"
+public_folder: "assets"
+
+collections:
+  - name: "products"
+    label: "Products"
+    folder: "content/products"
+    create: true
+    extension: "json"
+    format: "json"
+    slug: "{{sku}}"
+    fields:
+      - { label: "SKU", name: "sku", widget: "string" }
+      - { label: "Product Name", name: "name", widget: "string" }
+      - { label: "Tagline", name: "tagline", widget: "string", required: false }
+      - { label: "Story", name: "story", widget: "text", required: false }
+      - { label: "Price", name: "price", widget: "string" }
+      - { label: "Dimensions", name: "dimensions", widget: "string", required: false }
+      - label: "Size Prices"
+        name: "sizePrices"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Size", name: "size", widget: "string" }
+          - { label: "Price", name: "price", widget: "string" }
+      - { label: "Product Image", name: "image", widget: "image" }
