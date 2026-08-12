@@ -2,6 +2,7 @@ backend:
   name: github
   repo: muhammedrafikp98-ui/catalogue
   branch: main
+  auth_endpoint: api/auth
 
 media_folder: "assets"
 public_folder: "assets"
