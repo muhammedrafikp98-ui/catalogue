@@ -1,0 +1,8 @@
+{
+  "name": "urban-pots-catalogue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build-catalog.js"
+  }
+}
