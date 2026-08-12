@@ -1,0 +1,23 @@
+{
+  "sku": "NAD-LIT-[NUM]",
+  "name": "Prism of Heritage",
+  "tagline": "Where Traditional Textiles Become Radiant Works of Light.",
+  "story": "Prism of Heritage is a curated collection of handcrafted lamps inspired by the richness of Indian woven textiles, paisley motifs, and ornamental artistry.",
+  "price": "On Request",
+  "dimensions": "Refer Available sizes",
+  "sizePrices": [
+    {
+      "size": "16 x 5 ft / 18 x 5 ft (Shade)",
+      "price": "On Request"
+    },
+    {
+      "size": "16 x 5 ft / 23 x 15 ft (Shade)",
+      "price": "On Request"
+    },
+    {
+      "size": "21 x 15 ft / 14 x 15 ft (Shade)",
+      "price": "On Request"
+    }
+  ],
+  "image": "assets/38.webp"
+}

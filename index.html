@@ -584,12 +584,16 @@ function createCardElement(p, index) {
   const sizePricesHtml = (Array.isArray(p.sizePrices) && p.sizePrices.length) ? `
     <div class="size-prices">
       <div class="size-prices-title">Available Sizes &amp; Prices</div>
-      ${p.sizePrices.map(([sz, pr]) => `
+      ${p.sizePrices.map((sp) => {
+        const sz = Array.isArray(sp) ? sp[0] : (sp.size || '');
+        const pr = Array.isArray(sp) ? sp[1] : (sp.price || '');
+        return `
         <div class="size-price-row">
           <span>${sz}</span>
           <span class="size-price-value">${formatPrice(pr)}</span>
         </div>
-      `).join('')}
+      `;
+      }).join('')}
     </div>
   ` : '';
 
@@ -678,16 +682,18 @@ function renderGrid(items) {
   });
 }
 
+let activeProducts = typeof PRODUCTS !== 'undefined' ? PRODUCTS : [];
+
 // Live Search
 document.getElementById('searchInput').addEventListener('input', function(e) {
   const q = e.target.value.toLowerCase().trim();
   if (!q) {
-    renderGrid(PRODUCTS);
+    renderGrid(activeProducts);
     return;
   }
-  const filtered = PRODUCTS.filter(p => 
-    p.name.toLowerCase().includes(q) ||
-    p.sku.toLowerCase().includes(q) ||
+  const filtered = activeProducts.filter(p => 
+    (p.name && p.name.toLowerCase().includes(q)) ||
+    (p.sku && p.sku.toLowerCase().includes(q)) ||
     (p.tagline && p.tagline.toLowerCase().includes(q)) ||
     (p.story && p.story.toLowerCase().includes(q)) ||
     (p.dimensions && p.dimensions.toLowerCase().includes(q))
@@ -708,8 +714,18 @@ backToTopBtn.addEventListener('click', () => {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
 
-// Initial Render
-renderGrid(PRODUCTS);
+// Initial Render & Dynamic CMS Fetch
+renderGrid(activeProducts);
+
+fetch('content/products.json')
+  .then(res => res.ok ? res.json() : null)
+  .then(data => {
+    if (Array.isArray(data) && data.length > 0) {
+      activeProducts = data;
+      renderGrid(activeProducts);
+    }
+  })
+  .catch(err => console.log('Loaded static products'));
 </script>
 
 </body>
