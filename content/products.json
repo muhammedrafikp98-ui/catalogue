@@ -522,5 +522,24 @@
     "dimensions": "On Request",
     "sizePrices": [],
     "image": "assets/49.webp"
+  },
+  {
+    "name": "Vruksha Table",
+    "sku": "NAD-TBL-[NUM]",
+    "tagline": "Two sculptural forms, each with its own rhythm.on",
+    "story": "\tWhere organic growth meets the geometry of turned wood.",
+    "price": "Large table - ₹15,000 · Small table - ₹8,000",
+    "dimensions": "Large: 24 × 24 × 24 in",
+    "sizePrices": [
+      {
+        "size": "Large table ",
+        "price": "₹15,000"
+      },
+      {
+        "size": "Small table ",
+        "price": "₹8,000"
+      }
+    ],
+    "image": "assets/whatsapp-image-2026-08-13-at-12.51.06-am.jpeg"
   }
 ]

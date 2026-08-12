@@ -717,7 +717,7 @@ backToTopBtn.addEventListener('click', () => {
 // Initial Render & Dynamic CMS Fetch
 renderGrid(activeProducts);
 
-fetch('content/products.json')
+fetch('content/products.json?t=' + Date.now(), { cache: 'no-store' })
   .then(res => res.ok ? res.json() : null)
   .then(data => {
     if (Array.isArray(data) && data.length > 0) {

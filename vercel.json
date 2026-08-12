@@ -1,6 +1,19 @@
 {
   "headers": [
     {
+      "source": "/content/products.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    },
+    {
       "source": "/admin/config.yml",
       "headers": [
         {
