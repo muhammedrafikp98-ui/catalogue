@@ -2,6 +2,7 @@ backend:
   name: github
   repo: muhammedrafikp98-ui/catalogue
   branch: main
+  base_url: https://catalogue.nadliving.com
   auth_endpoint: api/auth
 
 media_folder: "assets"
