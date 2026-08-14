@@ -1,10 +1,9 @@
 {
-  "sizePrices": [],
-  "sku": "NAD-LIT-[NUM]",
-  "name": "TRIGAJA",
-  "tagline": "Guardian forms, suspended in light.",
-  "story": "Yaazhi Deepam draws from the visual language of South Indian temple carvings, where guardian creatures, turned wood, and layered ornament come together with quiet authority. Two sculptural side elements frame a central wooden form, creating a compact hanging piece that feels architectural, symbolic, and deeply rooted in heritage.",
-  "price": "15000",
-  "dimensions": "17.5 \"W\" × 21\"H\"",
-  "image": "assets/whatsapp-image-2026-08-14-at-6.03.20-pm.jpeg"
+  "dimensions": "Height:18 in · Bottom base width : 8 in · Diameter: 14 in",
+  "sku": "NAD-TBL-[NUM]",
+  "name": "Mani Side Table",
+  "story": "Mani means jewel or bead, and the table takes its identity from the sequence of rounded wooden forms rising through its centre. Stacked one above another, the dark spheres create a measured rhythm reminiscent of prayer beads, turned balusters, and ornamental details found across traditional Indian objects.",
+  "tagline": "Stacked like temple beads, finished like a jewel.",
+  "price": "8000",
+  "image": "assets/chatgpt-image-aug-14-2026-06_08_10-pm-2-.png"
 }
