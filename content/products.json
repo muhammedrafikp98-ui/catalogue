@@ -1,6 +1,5 @@
 [
   {
-    "sku": "UP-LUN-L001",
     "name": "Lunara",
     "tagline": "Bringing Moonlight Indoors.",
     "story": "Lunara draws inspiration from the celestial body that has guided stories, rituals, and imagination for centuries.",
@@ -31,7 +30,6 @@
     "image": "assets/1.webp"
   },
   {
-    "sku": "UP-BLM-C001",
     "name": "The Hanging Garden",
     "tagline": "Where Heritage Meets Light.",
     "story": "The Hanging Garden draws inspiration from the timber beams, carved brackets, and brass detailing found in traditional South Indian mansions.",
@@ -41,7 +39,6 @@
     "image": "assets/2.webp"
   },
   {
-    "sku": "UP-DRF-C002",
     "name": "The Root",
     "tagline": "Light Shaped by Nature.",
     "story": "The Root celebrates the untamed beauty of natural wood forms. Inspired by roots, branches, and weathered timber shaped by years of growth and exposure, each composition captures the raw elegance that only nature can create.",
@@ -51,7 +48,6 @@
     "image": "assets/3.webp"
   },
   {
-    "sku": "UP-TSK-L002",
     "name": "Tusklight",
     "tagline": "A Celebration of Strength, Grace, and Light.",
     "story": "Across South India, the elephant represents wisdom, prosperity, protection, and royal grandeur.",
@@ -61,7 +57,6 @@
     "image": "assets/4.webp"
   },
   {
-    "sku": "UP-VES-L003",
     "name": "Vestige",
     "tagline": "Where Forgotten Wood Finds New Light.",
     "story": "Vestige gives a second life to discarded wooden legs once found beneath tables, cabinets, cots, and handcrafted furniture.",
@@ -71,7 +66,6 @@
     "image": "assets/5.webp"
   },
   {
-    "sku": "UP-GAR-D001",
     "name": "Aurelia Garuda",
     "tagline": "A Guardian of Stories and Space.",
     "story": "Aurelia Garuda draws from the rich visual language of temple guardians, palace sentinels, and ceremonial iconography.",
@@ -81,7 +75,6 @@
     "image": "assets/6.webp"
   },
   {
-    "sku": "UP-SKM-L004",
     "name": "Skambha",
     "tagline": "Where Pillars Become Light.",
     "story": "Skambha takes its name from the ancient concept of the cosmic pillar — the axis that connects earth, sky, and spirit.",
@@ -91,7 +84,6 @@
     "image": "assets/7.webp"
   },
   {
-    "sku": "UP-ANN-T001",
     "name": "Annamutram",
     "tagline": "Gather Around Heritage.",
     "story": "In traditional South Indian homes, the mutram was more than an architectural space — it was where families gathered, stories were shared, and traditions lived on.",
@@ -101,7 +93,6 @@
     "image": "assets/8.webp"
   },
   {
-    "sku": "UP-TAR-M001",
     "name": "Tarangini",
     "tagline": "Reflections Framed in Tradition.",
     "story": "Tarangini brings together the elegance of traditional decorative motifs and the functionality of a statement mirror.",
@@ -111,7 +102,6 @@
     "image": "assets/9.webp"
   },
   {
-    "sku": "UP-ANU-D002",
     "name": "Anugraham",
     "tagline": "A Blessing Framed in Art.",
     "story": "Anugraham celebrates devotion through craftsmanship, presenting sacred figurines within a richly textured heritage frame.",
@@ -121,7 +111,6 @@
     "image": "assets/10.webp"
   },
   {
-    "sku": "UP-SCO-L005",
     "name": "Sconce",
     "tagline": "Light, Life, and Legacy in One Form.",
     "story": "Sconce brings together traditional craftsmanship, ambient lighting, and botanical beauty in a single statement piece.",
@@ -131,7 +120,6 @@
     "image": "assets/11.webp"
   },
   {
-    "sku": "UP-MYS-T002",
     "name": "Mysa",
     "tagline": "A Gathering Place for Conversation and Craft.",
     "story": "Mysa transforms the traditional teapoy into a sculptural centrepiece. Inspired by temple carvings and classical South Indian architectural details, its richly carved pedestal base supports a refined circular tabletop designed for modern living.",
@@ -141,7 +129,6 @@
     "image": "assets/12.webp"
   },
   {
-    "sku": "UP-RAT-D003",
     "name": "Ratnadvara",
     "tagline": "A Gateway Framed in Heritage and Light.",
     "story": "Ratnadvara captures the architectural elegance of traditional entrances and sacred thresholds.",
@@ -151,7 +138,6 @@
     "image": "assets/13.webp"
   },
   {
-    "sku": "UP-ARA-L006",
     "name": "Aranya",
     "tagline": "Where Forest Forms Become Light.",
     "story": "Aranya celebrates the organic elegance of nature through a sculptural floor lamp crafted with driftwood-inspired detailing and handcrafted elements.",
@@ -161,7 +147,6 @@
     "image": "assets/14.webp"
   },
   {
-    "sku": "UP-AMB-W001",
     "name": "Amber Chronicle",
     "tagline": "A Wall That Tells Stories Across Time.",
     "story": "Amber Chronicle transforms a plain wall into a curated narrative of heritage, craft, and culture.",
@@ -171,7 +156,6 @@
     "image": "assets/15.webp"
   },
   {
-    "sku": "UP-ALA-T003",
     "name": "Alankara",
     "tagline": "A Reflection Framed in Heritage.",
     "story": "Alankara is a striking fusion of function and artistry. Featuring twin arched mirrors, hand-painted floral panels, turned wooden legs, and jewel-toned finishes, this statement console captures the elegance of traditional Indian craftsmanship while serving modern living spaces.",
@@ -181,7 +165,6 @@
     "image": "assets/16.webp"
   },
   {
-    "sku": "UP-COL-S001",
     "name": "Colonnade",
     "tagline": "Architectural Comfort, Crafted in Colour.",
     "story": "Colonnade transforms traditional architectural elements into a functional seating piece. Featuring vibrant distressed finishes, arched back panels, and richly textured upholstery, it captures the charm of old-world courtyards and verandas while bringing warmth and character into contemporary interiors.",
@@ -191,7 +174,6 @@
     "image": "assets/17.webp"
   },
   {
-    "sku": "NAD-TBL-[NUM]",
     "name": "Maragadham's M",
     "tagline": "A Living Canvas of Heritage and Craft.",
     "story": "Maragadham's \"M\" celebrates India's decorative traditions through a handcrafted console cabinet where storage meets storytelling.",
@@ -201,7 +183,6 @@
     "image": "assets/18.webp"
   },
   {
-    "sku": "NAD-FUR-[NUM]",
     "name": "Nandhavanappettagam",
     "tagline": "Where Every Drawer Holds a Story of Nature.",
     "story": "Nandhavanappettagam is a handcrafted storage cabinet inspired by the botanical richness of heritage gardens and the quiet beauty of native birdlife.",
@@ -211,7 +192,6 @@
     "image": "assets/19.webp"
   },
   {
-    "sku": "NAD-FUR-[NUM]",
     "name": "Madhuvanam",
     "tagline": "A Grand Showcase of Heritage and Hospitality.",
     "story": "Madhuvanam is a statement display cabinet that draws inspiration from the ornate architecture of traditional palaces and heritage mansions.",
@@ -221,7 +201,6 @@
     "image": "assets/20.webp"
   },
   {
-    "sku": "NAD-FUR-[NUM]",
     "name": "Bronze and Blues",
     "tagline": "Sacred Craftsmanship, Hidden Within Heritage.",
     "story": "Bronze and Blues transforms the visual language of South Indian temple architecture into an elegant storage cabinet.",
@@ -231,7 +210,6 @@
     "image": "assets/21.webp"
   },
   {
-    "sku": "NAD-DCR-[NUM]",
     "name": "Raja Nilai",
     "tagline": "A Royal Sanctum for Everyday Devotion.",
     "story": "Raja Nilai reimagines the grandeur of South Indian temple architecture as a refined wall-mounted shrine.",
@@ -241,7 +219,6 @@
     "image": "assets/22.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "The Beacon",
     "tagline": "Where Vintage Conversation Meets Warm Illumination.",
     "story": "The Beacon transforms a nostalgic rotary telephone into a captivating table lamp that celebrates vintage craftsmanship with contemporary functionality.",
@@ -251,7 +228,6 @@
     "image": "assets/23.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Thanjai",
     "tagline": "The Spirit of Thanjavur, Illuminated.",
     "story": "Thanjai is a sculptural table lamp that brings together the timeless elegance of Thanjavur paintings and the strength of the iconic Yali, the mythical guardian of South Indian temples.",
@@ -261,7 +237,6 @@
     "image": "assets/24.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Alankara Thoon",
     "tagline": "Where Architectural Columns Become Light.",
     "story": "Alankara Thoon transforms the architectural beauty of traditional South Indian columns into a striking floor lighting sculpture.",
@@ -271,7 +246,6 @@
     "image": "assets/25.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Thanga Mandapam",
     "tagline": "A Temple Pavilion Suspended in Light.",
     "story": "Thanga Mandapam reimagines the grandeur of a traditional temple pavilion as a suspended lighting installation.",
@@ -281,7 +255,6 @@
     "image": "assets/26.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "The Thoon Collective",
     "tagline": "A Celebration of Columns, Culture & Light.",
     "story": "The Thoon Collective is Nature Art and Design’s signature family of handcrafted floor lamps, each inspired by the timeless symbolism of the South Indian Thoon—the architectural pillar that has long represented strength, craftsmanship, and cultural identity.",
@@ -291,7 +264,6 @@
     "image": "assets/27.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Vanashikha",
     "tagline": "Where the Forest Becomes Light.",
     "story": "Vanashikha celebrates the raw beauty of natural wood by preserving every curve, knot, grain, and live edge within a softly illuminated handcrafted structure.",
@@ -301,7 +273,6 @@
     "image": "assets/28.webp"
   },
   {
-    "sku": "NAD-TBL-[NUM]",
     "name": "Annapakshi Mesai",
     "tagline": "A Sacred Welcome Carved in Wood.",
     "story": "Annapakshi Mesai is a handcrafted heritage console table inspired by the timeless artistry of South Indian temple architecture.",
@@ -311,7 +282,6 @@
     "image": "assets/29.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Root Cascade",
     "tagline": "Nature Suspended in Light.",
     "story": "Root Cascade is a sculptural floor lamp handcrafted from naturally weathered driftwood roots, suspended along a brushed brass spine with warm Edison filament bulbs.",
@@ -321,7 +291,6 @@
     "image": "assets/30.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Echoes of Earth",
     "tagline": "Every Face Tells a Story. Every Light Gives It Life.",
     "story": "Echoes of Earth is a handcrafted collection of sculptural table lamps inspired by tribal artistry, folk traditions, and cultural symbolism.",
@@ -331,7 +300,6 @@
     "image": "assets/31.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "The Moon Grove",
     "tagline": "Where Moonlit Forests Become Light.",
     "story": "The Moon Grove is a handcrafted ceiling chandelier inspired by the serene rhythm of woodland canopies and the timeless beauty of the moon.",
@@ -341,7 +309,6 @@
     "image": "assets/32.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Idhazh",
     "tagline": "A Golden Whisper Beneath Crimson Petals.",
     "story": "Idhazh, meaning \"petal\" in Tamil, transforms the delicate beauty of a flower into a sculptural table lamp that celebrates artistic craftsmanship.",
@@ -351,7 +318,6 @@
     "image": "assets/33.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Sarugu",
     "tagline": "Where Weathered Bark Meets Molten Light.",
     "story": "Sarugu, the Tamil word for tree bark, celebrates the quiet strength and raw character of nature.",
@@ -361,7 +327,6 @@
     "image": "assets/34.webp"
   },
   {
-    "sku": "NAD-MIR-[NUM]",
     "name": "Prathibimbam",
     "tagline": "A Reflection Framed by the Memory of Wood.",
     "story": "Prathibimbam, meaning \"Reflection\" in Tamil, transforms reclaimed timber into an architectural statement of artistry and craftsmanship.",
@@ -371,7 +336,6 @@
     "image": "assets/35.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Swaram",
     "tagline": "Where Music Finds Its Light.",
     "story": "Swaram, meaning \"musical note\" in Tamil, transforms the timeless silhouette of an acoustic guitar into a sculptural floor lamp.",
@@ -381,7 +345,6 @@
     "image": "assets/36.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Patina",
     "tagline": "A Vintage Soul Illuminated with Timeless Elegance.",
     "story": "Patina celebrates the enduring beauty of age and craftsmanship. Inspired by antique brass milk cans that once carried stories through generations, this handcrafted table lamp transforms a familiar heritage object into functional décor.",
@@ -391,7 +354,6 @@
     "image": "assets/37.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Prism of Heritage",
     "tagline": "Where Traditional Textiles Become Radiant Works of Light.",
     "story": "Prism of Heritage is a curated collection of handcrafted lamps inspired by the richness of Indian woven textiles, paisley motifs, and ornamental artistry.",
@@ -414,7 +376,6 @@
     "image": "assets/38.webp"
   },
   {
-    "sku": "NAD-TBL-[NUM]",
     "name": "Singaara",
     "tagline": "A Grand Entrance Begins with Timeless Craftsmanship.",
     "story": "Singaara is a handcrafted heritage console inspired by the grandeur of Indian temple architecture.",
@@ -424,7 +385,6 @@
     "image": "assets/39.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Relic Lumina",
     "tagline": "Light Sculpted Through the Memory of Ancient Wood.",
     "story": "Relic Lumina transforms naturally weathered reclaimed wood into a contemporary sculptural floor lamp.",
@@ -434,7 +394,6 @@
     "image": "assets/40.webp"
   },
   {
-    "sku": "NAD-LIT-[NUM]",
     "name": "Anangi",
     "tagline": "Where Feminine Grace Becomes Illuminated Art.",
     "story": "Anangi is a sculptural table lamp that merges figurative artistry with contemporary design.",
@@ -444,7 +403,6 @@
     "image": "assets/41.webp"
   },
   {
-    "sku": "NAD-TBL-[NUM]",
     "name": "The Peacock Pavilion",
     "tagline": "A Reflection Framed in Heritage.",
     "story": "The Peacock Pavilion is a handcrafted dressing table inspired by the elegant arches of Mughal pavilions and the graceful symbolism of India’s national bird.",
@@ -454,7 +412,6 @@
     "image": "assets/42.webp"
   },
   {
-    "sku": "NAD-MRR-[NUM]",
     "name": "Antarala",
     "tagline": "A Doorway Between Reflection and Heritage.",
     "story": "Antarala is a handcrafted floor mirror inspired by the transitional gateways found in traditional Indian palaces and temples.",
@@ -464,7 +421,6 @@
     "image": "assets/43.webp"
   },
   {
-    "sku": "NAD-DCR-[NUM]",
     "name": "Ashtavaasal",
     "tagline": "Sacred Symmetry Carved into Timeless Walls.",
     "story": "Ashtavaasal is a monumental handcrafted wall installation inspired by the sacred entrances and sculptural storytelling of Indian temple architecture.",
@@ -474,7 +430,6 @@
     "image": "assets/44.webp"
   },
   {
-    "sku": "NAD-TBL-[NUM]",
     "name": "Sem Puravi",
     "tagline": "Four Guardians, One Timeless Gathering Place.",
     "story": "Sem Puravi, meaning \"Crimson Horse,\" is a handcrafted heritage coffee table inspired by the majestic horse motifs that have long stood as symbols of strength, nobility, and protection in South Indian temple architecture.",
@@ -484,7 +439,6 @@
     "image": "assets/45.webp"
   },
   {
-    "sku": "NAD-TBL-[NUM]",
     "name": "Matanga",
     "tagline": "Strength Carved into Every Curve.",
     "story": "Matanga is a handcrafted heritage side table inspired by the elephant, one of India’s most revered symbols of wisdom, strength, prosperity, and stability.",
@@ -494,7 +448,6 @@
     "image": "assets/46.webp"
   },
   {
-    "sku": "NAD-DCR-[NUM]",
     "name": "Pezhai",
     "tagline": "Heritage, Thoughtfully Framed.",
     "story": "Pezhai, meaning \"treasured chest\" or \"repository,\" is a handcrafted wall décor collection that reimagines the elegant display niches found in historic South Indian homes and temples.",
@@ -504,7 +457,6 @@
     "image": "assets/47.webp"
   },
   {
-    "sku": "NAD-DCR-[NUM]",
     "name": "Plumage",
     "tagline": "Where Craftsmanship Meets Graceful Plumage.",
     "story": "Plumage is a handcrafted corner wall shelf inspired by the graceful avian carvings that adorned the pillars, cornices, and wooden architecture of traditional South Indian homes and temples.",
@@ -514,7 +466,6 @@
     "image": "assets/48.webp"
   },
   {
-    "sku": "NAD-DCR-[NUM]",
     "name": "Mandhai",
     "tagline": "Heritage Brackets That Elevate Every Wall.",
     "story": "Mandhai is a handcrafted collection of heritage wall brackets inspired by the carved corbels, cornices, and architectural mouldings found in traditional South Indian homes and temples.",
@@ -525,7 +476,6 @@
   },
   {
     "name": "Vruksha Table",
-    "sku": "NAD-TBL-[NUM]",
     "tagline": "Two sculptural forms, each with its own rhythm.on",
     "story": "\tWhere organic growth meets the geometry of turned wood.",
     "price": "Large table - ₹15,000 · Small table - ₹8,000",
