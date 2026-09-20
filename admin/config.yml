@@ -16,7 +16,9 @@ collections:
     extension: "json"
     format: "json"
     slug: "{{name}}"
+    identifier_field: name
     fields:
+      - { label: "SKU", name: "sku", widget: "string", required: false }
       - { label: "Product Name", name: "name", widget: "string" }
       - { label: "Tagline", name: "tagline", widget: "string", required: false }
       - { label: "Story", name: "story", widget: "text", required: false }
