@@ -1,0 +1,19 @@
+{
+  "story": "Deiveega Maadam brings together three individually crafted wall-mounted panels dedicated to Madhava, Mahalakshmi, and Mahadeva. Each divine portrait is framed within its own architectural structure, creating three distinct sacred presences that remain connected through form, proportion, and ornamental detailing.",
+  "tagline": "Three divine presences, framed as one sacred composition.",
+  "name": "Deiveega Maadam",
+  "sku": "NAD-DCR-[NUM]",
+  "price": " TOTAL SET 24000            Small Frame - 10,000       Middle Frame - 12000",
+  "dimensions": "22*30 small frame. 44*29 big frame ",
+  "sizePrices": [
+    {
+      "size": "22*30",
+      "price": "10,000"
+    },
+    {
+      "size": "44*29",
+      "price": "12000"
+    }
+  ],
+  "image": "assets/whatsapp-image-2026-08-01-at-7.24.23-pm.jpeg"
+}

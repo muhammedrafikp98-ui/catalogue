@@ -1,0 +1,19 @@
+{
+  "sku": "NAD-LIT-[NUM]",
+  "name": "NAKSHATRA",
+  "tagline": "Tree rings above, warm light below.",
+  "story": "Vruksha Jyoti draws its character from the natural poetry of cut wood sections—each ring preserving the memory of growth, time, and texture. Arranged overhead like an organic canopy, these circular forms transform the ceiling into a sculptural surface rather than a blank plane.",
+  "price": "48000",
+  "dimensions": "60\"W\" * 40\"D\"",
+  "image": "assets/whatsapp-image-2026-07-27-at-5.24.43-pm-2-.jpeg",
+  "sizePrices": [
+    {
+      "size": "36\"W\" *36 \"D\"",
+      "price": "25000"
+    },
+    {
+      "size": "60\"W\" * 36\"D\"",
+      "price": "35000"
+    }
+  ]
+}
